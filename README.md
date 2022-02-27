@@ -51,3 +51,15 @@ Modern development with HTML and CSS (LCO)
 # https://cdnjs.com/libraries/font-awesome
 
 # https://fontawesome.com/v4/icons/#hand
+
+# https://animate.style/
+
+# https://www.pexels.com/ -- for photos
+
+# https://bennettfeely.com/clippy/ -- for clip photos
+
+# colorzile chrome eztension for color pick on website
+
+# https://uigradients.com/
+
+# https://www.flatuicolorpicker.com/
